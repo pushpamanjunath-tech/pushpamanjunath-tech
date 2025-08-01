@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building and improving projects day by day — latest: *Library Management System* in Java  
+- 🔭 Currently building and improving projects day by day — latest: 
 - 🌱 Learning **React.js**, **API integration**, and **UI/UX design**  
 - 💡 Passionate about turning ideas into real products using clean and modern web technologies  
 - 🛠️ Skilled in both **Frontend** and **Java Backend** development  
